@@ -1,3 +1,4 @@
+\\Product Details
 import { connect } from 'react-redux';
 import Product from '../components/Product';
 import { addToCart, removeFromCart, isInCart } from '../ducks/cart';
