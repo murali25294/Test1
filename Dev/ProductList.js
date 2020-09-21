@@ -1,3 +1,4 @@
+\\Product List
 import { connect } from 'react-redux';
 import ProductList from '../components/ProductList';
 import { getProducts } from '../ducks/products';
