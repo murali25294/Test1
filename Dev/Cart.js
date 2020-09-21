@@ -1,3 +1,4 @@
+\\Adding Cart Details
 import { connect } from 'react-redux';
 import Cart from '../components/Cart';
 import { getItems, getCurrency, getTotal, removeFromCart } from '../ducks/cart';
